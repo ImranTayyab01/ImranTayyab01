@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Imran Tayyab 👋
 
-<!--
-**ImranTayyab01/ImranTayyab01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who is learning programming step by step.
+I use GitHub to practice coding and build projects while improving my skills.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Python
+- Data Structures
+- Cyber security and networking basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- Python (Beginner)
+- Git & GitHub
+- javascript 
+- Beginner at cyber security 
+### 🎯 Goals
+- Become consistent in coding
+- Build meaningful projects
+- Grow as a software developer and cyber security expert 
+  
