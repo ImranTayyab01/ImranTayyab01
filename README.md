@@ -2,6 +2,7 @@
 
 I'm a Computer Science student who is learning programming step by step.
 I use GitHub to practice coding and build projects while improving my skills.
+I am passionate to learn cyber security
 
 ### 🌱 Currently Learning
 - Python
