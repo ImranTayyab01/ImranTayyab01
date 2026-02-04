@@ -7,13 +7,14 @@ I am passionate to learn cyber security
 ### 🌱 Currently Learning
 - Python
 - Data Structures
-- Cyber security and networking basics
+- Cyber security and networking 
 
 ### 🛠 Skills
-- Python (Beginner)
+- Python & C++
 - Git & GitHub
 - javascript 
 - Beginner at cyber security
+- HTML & CSS & Nodejs
 - ### 🛠 Skills
 <img src="https://skillicons.dev/icons?i=python,javascript,git,github" />
 
