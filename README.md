@@ -14,8 +14,11 @@ I am passionate to learn cyber security
 - Git & GitHub
 - javascript 
 - Beginner at cyber security
-- ### 🛠 Skills
-<img src="https://skillicons.dev/icons?i=python,javascript,git,github" />
+### 🐍 Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### 🟨 JavaScript
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 
 ### 🎯 Goals
 - Become consistent in coding
