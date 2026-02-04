@@ -13,7 +13,10 @@ I am passionate to learn cyber security
 - Python (Beginner)
 - Git & GitHub
 - javascript 
-- Beginner at cyber security 
+- Beginner at cyber security
+- ### 🛠 Skills
+<img src="https://skillicons.dev/icons?i=python,javascript,git,github" />
+
 ### 🎯 Goals
 - Become consistent in coding
 - Build meaningful projects
