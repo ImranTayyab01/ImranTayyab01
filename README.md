@@ -1,6 +1,6 @@
 ## Hi, I'm Imran Tayyab 👋
 
-I'm a Computer Science student who is learning programming step by step.
+I'm a Computer Science student and learning programming and also have keen interest in software development  and systems security. 
 I use GitHub to practice coding and build projects while improving my skills.
 I am passionate to learn cyber security
 
