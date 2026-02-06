@@ -29,5 +29,6 @@ I am passionate to learn cyber security
 ### 🎯 Goals
 - Become consistent in coding
 - Build meaningful projects
-- Grow as a software developer and cyber security expert 
+- Grow as a software developer and cyber security expert
+- passionate to work with  cooperative and world-wide professionals 
   
