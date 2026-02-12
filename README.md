@@ -17,9 +17,14 @@ I am passionate to learn cyber security
 - HTML & CSS & Nodejs
 - ### 🛠 Skills
 <img src="https://skillicons.dev/icons?i=python,javascript,git,github" />
-- ## 💻 Skills
+MySQL
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+## 💻 Database Skills
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 ### 🐍 Python
