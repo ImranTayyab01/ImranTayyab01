@@ -15,6 +15,7 @@ I am passionate to learn cyber security
 - javascript 
 - Beginner at cyber security
 - HTML & CSS & Nodejs
+- react native
 - ### 🛠 Skills
 <img src="https://skillicons.dev/icons?i=python,javascript,git,github" />
 MySQL
