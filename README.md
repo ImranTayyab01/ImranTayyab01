@@ -43,8 +43,8 @@ MySQL
 - passionate to work with  cooperative and world-wide professionals
 ## 📬 Contact Me
 
-- 📧 Email: your_email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: imrantayyabllc@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/imrantayyab-cs
 - 🌐 GitHub: https://github.com/ImranTayyab01
 
   
