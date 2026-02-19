@@ -45,6 +45,7 @@ MySQL
 
 - 📧 Email: imrantayyabllc@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/imrantayyab-cs
-- 🌐 GitHub: https://github.com/ImranTayyab01
+-    Whatsapp : https://wa.me/923085800523
+
 
   
