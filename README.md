@@ -6,7 +6,7 @@ I am passionate to learn cyber security
 
 ### 🌱 Currently Learning
 - Python
-- Data Structures
+- Data Structures & algorithams
 - Cyber security and networking
 - React Native
 - Kotlin
