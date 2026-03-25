@@ -10,6 +10,7 @@ I am passionate to learn cyber security
 - Cyber security and networking
 - React Native
 - Kotlin
+- Mobile Application Development
 
 ### 🛠 Skills
 - Python & C++
