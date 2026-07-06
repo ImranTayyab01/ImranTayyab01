@@ -4,6 +4,10 @@ I'm a Computer Science student and learning programming and also have keen inter
 I use GitHub to practice coding and build projects while improving my skills.
 I am passionate to learn cyber security
 
+<p align="center">
+  <img src="Banner.gif" alt="Banner" width="100%">
+</p>
+
 ### 🌱 Currently Learning
 - Python
 - Data Structures & algorithams
