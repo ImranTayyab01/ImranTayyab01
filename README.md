@@ -11,7 +11,7 @@ I am passionate to learn cyber security
 - React Native
 - Kotlin
 - Mobile Application Development
-- https://img.shields.io/badge/Label-Message-Color
+
 
 ### 🛠 Skills
 - Python & C++
