@@ -15,6 +15,7 @@ I am passionate to learn cyber security
 - React Native
 - Kotlin
 - Mobile Application Development
+- Git & Github
 
 
 ### 🛠 Skills
