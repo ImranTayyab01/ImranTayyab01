@@ -50,13 +50,13 @@ MySQL
 - Build meaningful projects
 - Grow as a software developer and cyber security expert
 - passionate to work with  cooperative and world-wide professionals
-## 📬 Contact Me
+## Connect with Me
 
-- 📧 Email: imrantayyabllc@gmail.com
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
--    Whatsapp : https://wa.me/923085800523
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
 
 
   
