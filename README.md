@@ -11,18 +11,12 @@ I am passionate to learn cyber security
 ### 🌱 Currently Learning
 - Python
 - Data Structures & algorithams
-- Cyber security and networking
-- React Native
-- Kotlin
-- Mobile Application Development
 - Git & Github
 
-
 ### 🛠 Skills
-  python & c++
-  Git & Github
-  HTML & CSS
-
+- python & C++
+- Git & Github
+- HTML & CSS 
 
 ### 🎯 Goals
 - Become consistent in coding
