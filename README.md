@@ -53,7 +53,9 @@ MySQL
 ## 📬 Contact Me
 
 - 📧 Email: imrantayyabllc@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/imrantayyab-cs
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
 -    Whatsapp : https://wa.me/923085800523
 
 
