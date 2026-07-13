@@ -19,24 +19,9 @@ I am passionate to learn cyber security
 
 
 ### 🛠 Skills
-- Python & C++
-- Git & GitHub
-- javascript 
-- Beginner at cyber security
-- HTML & CSS & Nodejs
-- react native
-- ### 🛠 Skills
-<img src="https://skillicons.dev/icons?i=python,javascript,git,github" />
-MySQL
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🐍 Python
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-
-### 🟨 JavaScript
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  python & c++
+  Git & Github
+  HTML & CSS
 
 
 ### 🎯 Goals
