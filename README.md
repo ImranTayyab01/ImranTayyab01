@@ -30,12 +30,6 @@ I am passionate to learn cyber security
 MySQL
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-## 💻 Database Skills
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
 
 ### 🐍 Python
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
