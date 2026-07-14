@@ -22,7 +22,7 @@ I am passionate to learn cyber security
 - Become consistent in coding
 - Build meaningful projects
 - Grow as a software developer and cyber security expert
-- passionate to work with  cooperative and world-wide professionals
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imrantayyab-cs)
