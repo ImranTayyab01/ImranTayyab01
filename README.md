@@ -12,6 +12,7 @@ I am passionate to learn and grow with professionals.
 - Python
 - Data Structures & algorithams
 - Git & Github
+- Django & APIs
 
 ### 🛠 Skills
 - python & C++
