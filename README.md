@@ -16,7 +16,8 @@ I am passionate to learn and grow with professionals.
 ### 🛠 Skills
 - python & C++
 - Git & Github
-- HTML & CSS 
+- HTML & CSS
+- CRM
 
 ### 🎯 Goals
 - Become consistent in coding
