@@ -14,6 +14,7 @@ I am passionate to learn and grow with professionals.
 - Git & Github
 - Django & APIs
 - Backend Architecture
+- Databases
 
 ### 🛠 Skills
 - python & C++
