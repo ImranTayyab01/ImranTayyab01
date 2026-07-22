@@ -3,13 +3,15 @@
   <img src="header.png" alt="header" width="100%">
 </p>
 
+<p align="center">
+  <img src="Banner.gif" alt="Banner" width="100%">
+</p>
+
+
 I'm a Computer Science student and learning programming and also have keen interest in software development  and systems security. 
 I use GitHub to practice coding and build projects while improving my skills.
 I am passionate to learn and grow with professionals.
 
-<p align="center">
-  <img src="Banner.gif" alt="Banner" width="100%">
-</p>
 
 ### 🌱 Currently Learning
 - Python
