@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Imran Tayyab</h1>
 
 <h3 align="center">
-Computer Science Student | Python Backend Developer | AI Enthusiast
+Computer Science Student | Python Backend Developer | MongoDB & MySQL expert
 </h3>
 
 <p align="center">
