@@ -16,8 +16,6 @@ Passionate about building scalable backend applications, exploring artificial in
 - 🎓 BS Computer Science Student
 - 🌱 Currently learning **Python Backend Development**
 - 💻 Building projects with **Python, Django, HTML, CSS & JavaScript**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🔐 Exploring **Cybersecurity**
 - 🚀 Always learning and improving through real-world projects
 
 
