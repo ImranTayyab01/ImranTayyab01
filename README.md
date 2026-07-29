@@ -45,14 +45,6 @@ I use HTML, CSS for front-end , and Python, Django for backend development.
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
-
-</p>
-
----
-
-<p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
 
