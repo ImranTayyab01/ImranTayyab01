@@ -37,8 +37,7 @@ I use HTML, CSS for front-end , and Python, Django for backend development.
 <a href="https://www.linkedin.com/in/imrantayyab-cs" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Imran%20Tayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<a href="mailto:imrantayyabllc@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=imrantayyabllc@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
