@@ -79,18 +79,18 @@ Passionate about building scalable backend applications, exploring artificial in
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/ImranTayyab01" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ImranTayyab01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-ImranTayyab01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/imrantayyab-cs" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Imran%20Tayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Imran%20Tayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<a href="mailto:imrantayyabllc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-imrantayyabllc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </p>
