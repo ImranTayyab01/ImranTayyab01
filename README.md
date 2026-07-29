@@ -6,7 +6,7 @@ Computer Science Student | Python Backend Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable backend applications, exploring artificial intelligence, and continuously learning modern technologies.
+I use HTML, CSS for front-end , and Python, Django for backend development. 
 </p>
 
 ---
