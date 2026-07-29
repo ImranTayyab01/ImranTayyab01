@@ -20,17 +20,6 @@ Passionate about building scalable backend applications, exploring artificial in
 - 🔐 Exploring **Cybersecurity**
 - 🚀 Always learning and improving through real-world projects
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,mysql,vscode,linux,bash" />
-
-</p>
-
----
 
 ## 📊 GitHub Stats
 
