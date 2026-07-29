@@ -17,52 +17,14 @@ I use HTML, CSS for front-end , and Python, Django for backend development.
 - 🌱 Currently learning **Python Backend Development**
 - 💻 Building projects with **Python, Django, HTML, CSS & JavaScript**
 - 🚀 Always learning and improving through real-world projects
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-
-</p>
-
----
-
+- 
 ## 🚀 Current Focus
 
 - Python Backend Development
 - Django
 - REST APIs
-- Artificial Intelligence
 - Data Structures & Algorithms
 - Open Source Contributions
-
----
-
-## 📂 Featured Projects
-
-- 🌐 Portfolio Website
-- 📝 Todo App
-- 🧮 Calculator
-- 🏦 Banking Management System
-- 🎯 Python Mini Projects
-
----
 
 ## 📫 Connect With Me
 
