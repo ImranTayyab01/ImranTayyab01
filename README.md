@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Banner.gif" alt="Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Imran Tayyab</h1>
 
