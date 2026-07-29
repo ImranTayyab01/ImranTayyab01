@@ -90,9 +90,8 @@ Passionate about building scalable backend applications, exploring artificial in
 </a>
 
 <a href="mailto:imrantayyabllc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-imrantayyabllc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
 </p>
 ---
 
