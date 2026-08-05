@@ -40,7 +40,7 @@ I use HTML, CSS for front-end , and Python, Django for backend development.
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=imrantayyabllc@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://wa.me/923001234567" target="_blank">
+<a href="https://wa.me/923085800523" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
