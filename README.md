@@ -17,7 +17,6 @@ I use HTML, CSS for front-end , and Python, Django for backend development.
 - 🌱 Currently learning **Python Backend Development**
 - 💻 Building projects with **Python, Django, HTML, CSS & JavaScript**
 - 🚀 Always learning and improving through real-world projects
-- 
 ## 🚀 Current Focus
 
 - Python Backend Development
